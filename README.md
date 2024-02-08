@@ -7,5 +7,8 @@ The main motivation for creating such game was my dear boyfriend who wanted to p
 # Rules 
 
 ## Materials
+We need a 6 x 7 grid, with 42 checkers (21 of each colour, in other words dedicated to each player).
 ## Objective
+To be the first player that gets 4 checkers in a row.
+
 ## Game Description
