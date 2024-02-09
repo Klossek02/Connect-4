@@ -12,3 +12,7 @@ We need a 6 x 7 grid, with 42 checkers (21 of each colour, in other words dedica
 To be the first player that gets 4 checkers in a row.
 
 ## Game Description
+1. Set up the grid so both players can reach it. Make sure the lever is set right so checkers won't fall through.
+2. Decide on the checker colors each player will use and determine who starts the game.
+3. Take turns putting the checkers into the grid until someone gets four in a row vertically, horizontally, or diagonally.
+4. The first person to get four in a row wins! The winner clears the grid by moving the lever and letting the checkers drop out.
